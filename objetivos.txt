@@ -1,2 +1,5 @@
 Primer objetivo 
 Quiero aprender a ser un buen programador
+
+Segundo objetivo
+Quiero aprender a realizar buenos modelos para bases de datos

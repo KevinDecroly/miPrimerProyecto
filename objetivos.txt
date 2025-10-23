@@ -3,3 +3,6 @@ Quiero aprender a ser un buen programador
 
 Segundo objetivo
 Quiero aprender a realizar buenos modelos para bases de datos
+
+Tercer objetivo
+Quiero aprender IPE para que me sea mas sencillo saber sobre las medidas de seguridad una vez tenga un empleo
